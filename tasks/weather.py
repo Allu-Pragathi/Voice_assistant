@@ -2,7 +2,7 @@ import requests
 from utils.config import OPENWEATHER_API_KEY
 
 def get_weather(city):
-    api_key = "e4af72dbb82b32e8811ea925eb2c0ecb"  # <-- Add quotes
+    api_key = OPENWEATHER_API_KEY # <-- Add quotes
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
     response = requests.get(url)
     data = response.json()
