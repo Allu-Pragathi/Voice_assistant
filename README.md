@@ -1,9 +1,9 @@
-# 🗣️✨ Voice Assistant — Your Python-Powered Sidekick
+# 🗣️✨ Voice Assistant 
 
 Imagine having a personal assistant who **never sleeps**, **always listens**, and gets **smarter with every word you say**.  
 Welcome to **Voice Assistant** — a dynamic, modular, and intelligent Python project designed to transform your voice commands into actions.
 
---
+
 
 ## Why This Assistant?
 
@@ -14,7 +14,7 @@ In a world overloaded with apps and notifications, this assistant brings **simpl
 - **Effortless**: Minimal setup, maximum impact.  
 - **Powered by AI**: Combining the best of OpenAI’s brains with real-world APIs like OpenWeather.
 
---
+
 
 ## 🚀 What Can It Do?
 
@@ -23,7 +23,7 @@ In a world overloaded with apps and notifications, this assistant brings **simpl
 - Translate languages like a polyglot friend.  
 - Tell jokes when you need a laugh.  
 
---
+
 
 ## Under the Hood 🛠️
 
@@ -31,9 +31,7 @@ In a world overloaded with apps and notifications, this assistant brings **simpl
 - **SpeechRecognition** & **pyttsx3** for seamless voice input/output.  
 - **OpenAI GPT API** to understand and generate human-like text.  
 - **OpenWeather API** for up-to-the-minute weather info.  
-- **Asyncio & Modular design** — making the assistant scalable and developer-friendly.
 
---
 
 
 ## Quickstart Guide 🚦
