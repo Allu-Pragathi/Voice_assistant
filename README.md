@@ -35,7 +35,6 @@ In a world overloaded with apps and notifications, this assistant brings **simpl
 
 
 ## Quickstart Guide 🚦
-
 # Grab the code:
 
 git clone https://github.com/Allu-Pragathi/Voice_assistant.git
@@ -61,7 +60,6 @@ Copy .env.example to .env and drop your API keys in.
 
 python main.py
 
---
 
 # How You Can Help 🤝
 
@@ -79,7 +77,5 @@ Fork, tweak, and PR your way into this project’s evolution.
 
 This assistant isn’t just code — it’s a growing companion, ready to learn and evolve with you. Dive in, experiment, and make it yours.
 
-# License
 
-This project is MIT Licensed. See LICENSE for details.
 
